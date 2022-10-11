@@ -1,0 +1,5 @@
+Goblin, 35, 3, 1, slingshot, 9
+Skeleton, 40, 9, 2, dark, 9
+Black Knight, 75, 12, 3, overwhelm, 15
+Wyvern, 90, 15, 4, divebomb, 22
+Dragon, 150, 25, 5, fireball, 30
